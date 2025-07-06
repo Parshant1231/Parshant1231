@@ -2,6 +2,8 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+%F0%9F%8C%9F;I'm+Parshant!" alt="Typing SVG" />
 </p>
 
+
+
 ---
 
 ### 🛠️ About Me
@@ -13,17 +15,7 @@
 
 ---
 
-### 🔧 Skills & Tools
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" alt="TS" />
-  <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white" alt="Prisma" />
-  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white" alt="TailwindCSS" />
-</p>
 
 <a href="https://leetcode.com/kanvit/">
   <img src="https://img.shields.io/badge/Leetcode-orange?style=for-the-badge&logo=leetcode&logoColor=black"/>
@@ -53,6 +45,7 @@
 
 </p>
 
+
 ---
 
 ### 📊 GitHub Stats
@@ -64,17 +57,3 @@
 </p>
 
 ---
-
-### 🤝 Let’s Connect
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/parshant-kum/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&style=for-the-badge&logoColor=white" />
-  </a>
-  <a href="mailto:parshant@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&style=for-the-badge&logoColor=white" />
-  </a>
-  <a href="https://x.com/999Parshant" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?logo=twitter&style=for-the-badge&logoColor=white" />
-  </a>
-</p>
