@@ -1,12 +1,6 @@
-<h1>Hi 👋, I’m Parshant</h1>
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+%F0%9F%8C%9F;I'm+Parshant!" alt="Typing SVG" />
 </p>
-
-<h3 align="center">
-  🚀 Web Dev • 🤖 AI Enthusiast • 🌱 Open Source Advocate
-</h3>
 
 ---
 
