@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I’m Parshant</h1>
 
 <p align="center">
-  <img src="https://your-cdn.com/your-banner.png" alt="Banner" />
+  <img src="[[https://your-cdn.com/your-banner.png](https://readme-typing-svg.herokuapp.com/)" alt="Banner](https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+%F0%9F%8C%9F;+I%27m+Parshant!;)" />
 </p>
 
 <h3 align="center">
