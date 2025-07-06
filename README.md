@@ -1,7 +1,7 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+%F0%9F%8C%9F;I'm+Parshant!" alt="Typing SVG" width="100px" height="100px" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+%F0%9F%8C%9F;I'm+Parshant!" alt="Typing SVG" width="300px" height="300px" />
 </p>
 
 ---
@@ -28,6 +28,32 @@
 
 ---
 
+
+### 📂 Featured Projects
+
+<p align="center">
+
+| Project | Description | Tech Stack | Live Demo |
+|--------|-------------|------------|-----------|
+| [🔗 Healthcare Chatbot](https://github.com/Parshant1231/healthcare-chatbot) | AI chatbot for patient queries | Python • LangChain • FastAPI | [Demo Link](https://healthcare-chatbot-demo.vercel.app) |
+| [🔗 Todo App](https://github.com/Parshant1231/todo-app) | Full-stack task manager | Next.js • Prisma • Tailwind | [Live](https://todo-app-demo.vercel.app) |
+| [🔗 Task Manager](https://github.com/Parshant1231/task-manger) | AI-enhanced project tracking tool | Next.js • PostgreSQL • Prisma | [Live](https://task-manager-demo.vercel.app) |
+| [🔗 CV Website](https://github.com/Parshant1231/cv-website) | Personal portfolio site | TypeScript • React • Vercel | [Site](https://parshantcv.vercel.app) |
+
+</p>
+
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Parshant1231&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parshant1231&layout=compact&theme=tokyonight" alt="Top Languages" width="300px" height="300px" />
+</p>
+
+---
+
 ## **Languages and Tools**
 <p>
 
@@ -51,27 +77,3 @@
 
 </p>
 
-### 📂 Featured Projects
-
-<p align="center">
-
-| Project | Description | Tech Stack | Live Demo |
-|--------|-------------|------------|-----------|
-| [🔗 Healthcare Chatbot](https://github.com/Parshant1231/healthcare-chatbot) | AI chatbot for patient queries | Python • LangChain • FastAPI | [Demo Link](https://healthcare-chatbot-demo.vercel.app) |
-| [🔗 Todo App](https://github.com/Parshant1231/todo-app) | Full-stack task manager | Next.js • Prisma • Tailwind | [Live](https://todo-app-demo.vercel.app) |
-| [🔗 Task Manager](https://github.com/Parshant1231/task-manger) | AI-enhanced project tracking tool | Next.js • PostgreSQL • Prisma | [Live](https://task-manager-demo.vercel.app) |
-| [🔗 CV Website](https://github.com/Parshant1231/cv-website) | Personal portfolio site | TypeScript • React • Vercel | [Site](https://parshantcv.vercel.app) |
-
-</p>
-
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Parshant1231&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parshant1231&layout=compact&theme=tokyonight" alt="Top Languages" width="100px" height="100px" />
-</p>
-
----
