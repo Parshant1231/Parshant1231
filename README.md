@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I’m Parshant</h1>
+<h1>Hi 👋, I’m Parshant</h1>
 
 <p align="center">
-  <img src="[[https://your-cdn.com/your-banner.png](https://readme-typing-svg.herokuapp.com/)" alt="Banner](https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+%F0%9F%8C%9F;+I%27m+Parshant!;)" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+%F0%9F%8C%9F;I'm+Parshant!" alt="Typing SVG" />
 </p>
 
 <h3 align="center">
@@ -30,6 +30,19 @@
   <img src="https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white" alt="Prisma" />
   <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white" alt="TailwindCSS" />
 </p>
+
+<a href="https://leetcode.com/kanvit/">
+  <img src="https://img.shields.io/badge/Leetcode-orange?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+<a href="https://www.linkedin.com/in/parshant-kumar-074a592a6">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> 
+ </a> 
+<a href="parshant0011pk@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://x.com/999Parshant">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+</a>
 
 ---
 
