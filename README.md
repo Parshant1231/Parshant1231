@@ -4,16 +4,6 @@
 💡 As of today, I'm Working on a Task Manager app with ai Integrated.<br />
 🧰 Every project is a chance to do something my way.<br />
 🧠 Learning how AI systems are built and used.<br />
-
-
-## 👨‍💻 About Me
-
-Hey, I’m **Parshant** — I write code that turns into things people can actually use.
-
-💻 Building with **Next.js**, **TypeScript**, and ideas that don’t stay ideas for long.  
-🧪 Always testing something — usually late, usually fun.  
-📬 Down for good projects and clean builds.
-
 > Started with “maybe.” Still building.
 
 
