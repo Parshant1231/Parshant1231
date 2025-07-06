@@ -1,7 +1,7 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+%F0%9F%8C%9F;I'm+Parshant!" alt="Typing SVG" width="300px" height="300px" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+%F0%9F%8C%9F;I'm+Parshant!" alt="Typing SVG" width="500px" height="500px" />
 </p>
 
 ---
@@ -43,14 +43,9 @@
 </p>
 
 
----
 
-### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Parshant1231&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parshant1231&layout=compact&theme=tokyonight" alt="Top Languages" width="300px" height="300px" />
-</p>
+
 
 ---
 
@@ -77,3 +72,12 @@
 
 </p>
 
+
+---
+
+### 📊 GitHub Stats
+<a href="https://github.com/Parshant1231">
+  <img src="https://github-readme-stats.vercel.app/api?username=Parshant1231&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</a>
+<a href="https://github.com/Parshant1231">
+<img width="49%" title="Redirect's to Shyam's Github" src="https://github-readme-streak-stats.herokuapp.com/?user=Parshant1231&theme=dark&theme=black-ice&stroke=0000" /></a>
