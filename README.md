@@ -1,12 +1,8 @@
----
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+%F0%9F%8C%9F;I'm+Parshant!" alt="Typing SVG" width="500px" height="500px" />
-</p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Bitcount+Grid+Double&weight=500&size=30&pause=1000&color=02B807&background=8D135E00&center=true&vCenter=true&width=500&lines=HI+THERE+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" /></a>
 
----
 
-### 🛠️ About Me
+##  **About Me**
 
 - 🔭 I’m currently building a **Next.js AI‑powered Task Manager**
 - 🌱 Exploring GenAI prompts, embeddings, and LangChain-based tools
@@ -26,28 +22,6 @@
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
 </a>
 
----
-
-
-### 📂 Featured Projects
-
-<p align="center">
-
-| Project | Description | Tech Stack | Live Demo |
-|--------|-------------|------------|-----------|
-| [🔗 Healthcare Chatbot](https://github.com/Parshant1231/healthcare-chatbot) | AI chatbot for patient queries | Python • LangChain • FastAPI | [Demo Link](https://healthcare-chatbot-demo.vercel.app) |
-| [🔗 Todo App](https://github.com/Parshant1231/todo-app) | Full-stack task manager | Next.js • Prisma • Tailwind | [Live](https://todo-app-demo.vercel.app) |
-| [🔗 Task Manager](https://github.com/Parshant1231/task-manger) | AI-enhanced project tracking tool | Next.js • PostgreSQL • Prisma | [Live](https://task-manager-demo.vercel.app) |
-| [🔗 CV Website](https://github.com/Parshant1231/cv-website) | Personal portfolio site | TypeScript • React • Vercel | [Site](https://parshantcv.vercel.app) |
-
-</p>
-
-
-
-
-
-
----
 
 ## **Languages and Tools**
 <p>
@@ -72,10 +46,7 @@
 
 </p>
 
-
----
-
-### 📊 GitHub Stats
+##  **GitHub Stats** <p align="center">
 <a href="https://github.com/Parshant1231">
   <img src="https://github-readme-stats.vercel.app/api?username=Parshant1231&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </a>
