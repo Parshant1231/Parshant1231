@@ -13,10 +13,6 @@
 - 🤝 Looking to collaborate on **Healthcare Chatbots** and **Open Source UI libraries**
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/parshant-kum/) • [X/Twitter](https://x.com/999Parshant) • [Email](mailto:parshant@example.com)
 
----
-
-
-
 <a href="https://leetcode.com/kanvit/">
   <img src="https://img.shields.io/badge/Leetcode-orange?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
