@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Bitcount+Grid+Double&size=35&duration=1200&pause=900&color=00FD49F8&center=true&vCenter=true&width=435&lines=I+Make+POSSIBLE.+++%F0%9F%92%BB" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Bitcount+Grid+Double&size=35&duration=1200&pause=900&color=00FD49F8&center=true&vCenter=true&width=435&lines=IMAKEIT.POSSIBLE!+%F0%9F%92%BB" alt="Typing SVG" /></a>
 
 💡 As of today, I'm Working on a Task Manager app with ai Integrated.<br />
 🧰 Every project is a chance to do something my way.<br />
