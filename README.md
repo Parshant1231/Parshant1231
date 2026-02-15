@@ -92,19 +92,14 @@ A production‑style deployment pipeline that fully automates infrastructure pro
 - 🔒 **Security first** – secrets never left in plain text.  
 
 ---
-
 ## 📊 **GitHub Analytics**
 
 <p align="center">
   <a href="https://github.com/Parshant1231">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Parshant1231&show_icons=true&theme=react&bg_color=0d1117&hide_border=true&count_private=true&include_all_commits=true&icon_color=00E6FE&title_color=00E6FE" />
     <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Parshant1231&theme=black-ice&hide_border=true&stroke=0000&background=0d1117&ring=00E6FE&fire=00FD49&currStreakLabel=00E6FE" />
   </a>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parshant1231&layout=compact&theme=react&bg_color=0d1117&hide_border=true&title_color=00E6FE" />
-</p>
 
 ---
 
