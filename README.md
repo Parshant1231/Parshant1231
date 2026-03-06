@@ -97,7 +97,7 @@ A production‑style deployment pipeline that fully automates infrastructure pro
 
 <p align="center">
   <a href="https://github.com/Parshant1231">
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Parshant1231&theme=black-ice&hide_border=true&stroke=0000&background=0d1117&ring=00E6FE&fire=00FD49&currStreakLabel=00E6FE" />
+    <img height="180em" src="https://streak-stats.demolab.com/?user=Parshant1231&theme=black-ice&hide_border=true&stroke=0000&background=0d1117&ring=00E6FE&fire=00FD49&currStreakLabel=00E6FE" />
   </a>
 </p>
 
