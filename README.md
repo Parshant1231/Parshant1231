@@ -63,25 +63,22 @@ I focus on eliminating manual processes and increasing reliability through:
 ---
 
 ## 🚀 **Featured Project**
-
-### ☁️ **Cloud‑Native DevOps Deployment Platform**
-A production‑style deployment pipeline that fully automates infrastructure provisioning and application deployment.
-
-| Feature                 | Technology                |
-|-------------------------|---------------------------|
-| Infrastructure as Code  | Terraform (AWS)           |
-| Containerization        | Docker                    |
-| CI/CD                   | GitHub Actions            |
-| Secure Deployment       | SSH + Secrets Management  |
-| Reverse Proxy           | Nginx                     |
-
+### ☁️ **DevDeploy — Self-Service App Deployment Platform**
+A self-service deployment platform where a GitHub push triggers a full production release — provisioning, tracking, and even idle-environment teardown all handled automatically.
+| Feature                    | Technology                |
+|-----------------------------|---------------------------|
+| Infrastructure as Code       | Terraform (nested modules, AWS) |
+| Multi-Environment AWS Setup  | VPC · EC2 · Compute · Storage (ap-south-1) |
+| Containerization              | Docker                   |
+| CI/CD                         | GitHub Actions           |
+| Deployment State Tracking     | DynamoDB + Lambda        |
+| Idle Environment Auto-Teardown| EventBridge (TTL-based)  |
 **Highlights:**  
-✔ Fully automated from commit to production  
-✔ Infrastructure version‑controlled and reproducible  
-✔ Zero manual server updates  
-✔ Security built‑in from day one  
-
-🔗 **[View Repository](https://github.com/your-username/cloud-native-devops-platform)**  
+✔ GitHub push triggers a full build-and-release pipeline, end to end  
+✔ Multi-environment infrastructure provisioned via modular Terraform  
+✔ Deployment state tracked in DynamoDB, scanned by Lambda  
+✔ EventBridge auto-destroys idle environments to cut cloud cost  
+🔗 **[View Repository](https://github.com/Parshant1231/dev_deploy)**
 
 ---
 
